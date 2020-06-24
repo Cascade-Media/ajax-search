@@ -14,9 +14,9 @@ class Database {
 		// SERVER 
 		// User was denied remote access to x10Hosting SQL server
 		/*$host = 'localhost';
-		$database   = 'svcx10mx_svc';
-		$username = 'svcx10mx_svc';
-		$password = 'dundeeandangus2019';*/
+		$database   = 'database';
+		$username = 'root';
+		$password = '';*/
 
 
 		// LOCALHOST
